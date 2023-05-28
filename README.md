@@ -16,7 +16,7 @@
 **Project Details**
 1. **Topic and Data Collection**
 - Topic: Clothing classification using machine learning methods such as CNN, Softmax, Gradient Decent methods.
-- Data Source: [Fashion MNIST]([https://danso.org/the-gioi/](https://www.kaggle.com/datasets/zalando-research/fashionmnist?resource=download&select=fashion-mnist_test.csv))
+- Data Source: [Fashion MNIST](https://danso.org/the-gioi/](https://www.kaggle.com/datasets/zalando-research/fashionmnist?resource=download&select=fashion-mnist_test.csv)
 
 2. **Algorithms are used in this project**
 - Mini-Batch Gradient Descent
